@@ -1,0 +1,11 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\zozol\\onedrive\\pulpit\\hej\\projekt\\projekt\\lock.ixx",
+        "ProvidedModule": "Lock",
+        "PCH": "c:\\users\\zozol\\onedrive\\pulpit\\hej\\projekt\\projekt\\release\\projekt.pch",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

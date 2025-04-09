@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zozol\\OneDrive\\Pulpit\\hej\\Projekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56AFFD59-6839-4A93-AFCB-9405D43D517A}|Projekt\\Projekt.vcxproj|C:\\Users\\zozol\\OneDrive\\Pulpit\\hej\\Projekt\\Projekt\\Play.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56AFFD59-6839-4A93-AFCB-9405D43D517A}|Projekt\\Projekt.vcxproj|solutionrelative:Projekt\\Play.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56AFFD59-6839-4A93-AFCB-9405D43D517A}|Projekt\\Projekt.vcxproj|C:\\Users\\zozol\\OneDrive\\Pulpit\\hej\\Projekt\\Projekt\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56AFFD59-6839-4A93-AFCB-9405D43D517A}|Projekt\\Projekt.vcxproj|solutionrelative:Projekt\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 185,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Play.cpp",
+              "DocumentMoniker": "C:\\Users\\zozol\\OneDrive\\Pulpit\\hej\\Projekt\\Projekt\\Play.cpp",
+              "RelativeDocumentMoniker": "Projekt\\Play.cpp",
+              "ToolTip": "C:\\Users\\zozol\\OneDrive\\Pulpit\\hej\\Projekt\\Projekt\\Play.cpp",
+              "RelativeToolTip": "Projekt\\Play.cpp",
+              "ViewState": "AQIAAGACAAAAAAAAAAAMwHQCAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-25T11:47:31.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\zozol\\OneDrive\\Pulpit\\hej\\Projekt\\Projekt\\Game.cpp",
+              "RelativeDocumentMoniker": "Projekt\\Game.cpp",
+              "ToolTip": "C:\\Users\\zozol\\OneDrive\\Pulpit\\hej\\Projekt\\Projekt\\Game.cpp",
+              "RelativeToolTip": "Projekt\\Game.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-21T14:06:17.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

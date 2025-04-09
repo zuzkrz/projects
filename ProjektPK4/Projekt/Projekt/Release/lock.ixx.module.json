@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Release\\Lock.ixx.obj",
+            "outputs": [
+                "C:\\Users\\zozol\\OneDrive\\Pulpit\\hej\\Projekt\\Projekt\\Release\\vc143.pdb",
+                "Release\\",
+                "C:\\Users\\zozol\\OneDrive\\Pulpit\\hej\\Projekt\\Projekt\\Release\\Lock.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Lock",
+                    "source-path": "c:\\users\\zozol\\onedrive\\pulpit\\hej\\projekt\\projekt\\lock.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
