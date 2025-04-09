@@ -1,0 +1,19 @@
+1 10001 0 lubie@placki
+Tytul1
+Opis1
+2 10002 0 lubie#ciebie
+Tytul2
+Opis2
+4 10003 0 mmafjdhgcjhnkj
+Tytjdfkhcgjhbcjh
+Szumią jodly na gor szczycie
+2 10004 0 doda@onet.yu
+tytu dodany
+Nie wprowadzono opisu.
+2 10005 0 Marlenka#tyt
+Tyt_Dod
+Lubie placuchy
+1 10006 0 placke
+lubievieae
+Nie wprowadzono opisu.
+

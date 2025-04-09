@@ -1,0 +1,4 @@
+﻿  ProjektPK.cpp
+C:\Users\Zuza\Desktop\ProjektPK\ProjektPK\ErrorDatabase.h(86,14): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Zuza\Desktop\ProjektPK\ProjektPK\ErrorDatabase.h(93,14): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  ProjektPK.vcxproj -> C:\Users\Zuza\Desktop\ProjektPK\x64\Debug\ProjektPK.exe

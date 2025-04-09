@@ -1,0 +1,4 @@
+10000 haslo1
+10001 haslo2
+10002 haslo3
+10003 placek
