@@ -1,0 +1,4 @@
+--patch-module
+com.my.dziennik=_
+--add-reads
+com.my.dziennik=ALL-UNNAMED

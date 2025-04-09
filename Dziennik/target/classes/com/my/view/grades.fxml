@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane id="AnchorPane" fx:id="gradesScene" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.my.dziennik.GradesController">
+    <children>
+      <TableView fx:id="table" layoutX="61.0" layoutY="17.0" prefHeight="172.0" prefWidth="478.0">
+        <columns>
+          <TableColumn fx:id="subject" prefWidth="239.0" text="Subject" />
+          <TableColumn fx:id="grade" prefWidth="238.0" text="Grade" />
+        </columns>
+      </TableView>
+      <Button fx:id="addButton" defaultButton="true" layoutX="61.0" layoutY="200.0" mnemonicParsing="false" onAction="#add" text="Add" />
+      <Button fx:id="remove" layoutX="164.0" layoutY="200.0" mnemonicParsing="false" onAction="#remove" text="Remove" />
+      <Button fx:id="backButton" layoutX="498.0" layoutY="200.0" mnemonicParsing="false" onAction="#back" text="Back" />
+      <TextField fx:id="subjectEdit" layoutX="99.0" layoutY="265.0" promptText="enter subject" />
+      <TextField fx:id="gradeEdit" layoutX="99.0" layoutY="334.0" promptText="enter grade" />
+      <Text layoutX="71.0" layoutY="261.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Subject" />
+      <Text layoutX="69.0" layoutY="330.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Grade" />
+      <Button fx:id="avgButton" layoutX="360.0" layoutY="200.0" mnemonicParsing="false" onAction="#avg" text="Average Grade" />
+   </children>
+</AnchorPane>
