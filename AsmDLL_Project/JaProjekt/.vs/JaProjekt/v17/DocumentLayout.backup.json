@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zuza\\Desktop\\JaProjekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCF478C-08AA-4D74-99DB-91D988BE2FBC}|japrojekt\\japrojekt.csproj|c:\\users\\zuza\\desktop\\japrojekt\\japrojekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCF478C-08AA-4D74-99DB-91D988BE2FBC}|japrojekt\\japrojekt.csproj|solutionrelative:japrojekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1EE64E-93C7-4045-B59D-5F9616A3B91A}|ASM\\ASM.vcxproj|C:\\Users\\Zuza\\Desktop\\JaProjekt\\ASM\\ASM.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1D1EE64E-93C7-4045-B59D-5F9616A3B91A}|ASM\\ASM.vcxproj|solutionrelative:ASM\\ASM.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 185,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zuza\\Desktop\\JaProjekt\\JaProjekt\\Program.cs",
+              "RelativeDocumentMoniker": "JaProjekt\\Program.cs",
+              "ToolTip": "C:\\Users\\Zuza\\Desktop\\JaProjekt\\JaProjekt\\Program.cs",
+              "RelativeToolTip": "JaProjekt\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAowFsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T20:53:41.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ASM.asm",
+              "DocumentMoniker": "C:\\Users\\Zuza\\Desktop\\JaProjekt\\ASM\\ASM.asm",
+              "RelativeDocumentMoniker": "ASM\\ASM.asm",
+              "ToolTip": "C:\\Users\\Zuza\\Desktop\\JaProjekt\\ASM\\ASM.asm",
+              "RelativeToolTip": "ASM\\ASM.asm",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-13T16:49:58.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

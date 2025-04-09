@@ -1,0 +1,17 @@
+C:\Users\Zuza\Desktop\JaProjektGUI\JaProjektGUI\bin\Debug\net9.0-windows\JaProjektGUI.exe
+C:\Users\Zuza\Desktop\JaProjektGUI\JaProjektGUI\bin\Debug\net9.0-windows\JaProjektGUI.deps.json
+C:\Users\Zuza\Desktop\JaProjektGUI\JaProjektGUI\bin\Debug\net9.0-windows\JaProjektGUI.runtimeconfig.json
+C:\Users\Zuza\Desktop\JaProjektGUI\JaProjektGUI\bin\Debug\net9.0-windows\JaProjektGUI.dll
+C:\Users\Zuza\Desktop\JaProjektGUI\JaProjektGUI\bin\Debug\net9.0-windows\JaProjektGUI.pdb
+C:\Users\Zuza\Desktop\JaProjektGUI\JaProjektGUI\obj\Debug\net9.0-windows\JaProjektGUI.EmbossingFilter.resources
+C:\Users\Zuza\Desktop\JaProjektGUI\JaProjektGUI\obj\Debug\net9.0-windows\JaProjektGUI.Properties.Resources.resources
+C:\Users\Zuza\Desktop\JaProjektGUI\JaProjektGUI\obj\Debug\net9.0-windows\JaProjektGUI.csproj.GenerateResource.cache
+C:\Users\Zuza\Desktop\JaProjektGUI\JaProjektGUI\obj\Debug\net9.0-windows\JaProjektGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zuza\Desktop\JaProjektGUI\JaProjektGUI\obj\Debug\net9.0-windows\JaProjektGUI.AssemblyInfoInputs.cache
+C:\Users\Zuza\Desktop\JaProjektGUI\JaProjektGUI\obj\Debug\net9.0-windows\JaProjektGUI.AssemblyInfo.cs
+C:\Users\Zuza\Desktop\JaProjektGUI\JaProjektGUI\obj\Debug\net9.0-windows\JaProjektGUI.csproj.CoreCompileInputs.cache
+C:\Users\Zuza\Desktop\JaProjektGUI\JaProjektGUI\obj\Debug\net9.0-windows\JaProjektGUI.dll
+C:\Users\Zuza\Desktop\JaProjektGUI\JaProjektGUI\obj\Debug\net9.0-windows\refint\JaProjektGUI.dll
+C:\Users\Zuza\Desktop\JaProjektGUI\JaProjektGUI\obj\Debug\net9.0-windows\JaProjektGUI.pdb
+C:\Users\Zuza\Desktop\JaProjektGUI\JaProjektGUI\obj\Debug\net9.0-windows\JaProjektGUI.genruntimeconfig.cache
+C:\Users\Zuza\Desktop\JaProjektGUI\JaProjektGUI\obj\Debug\net9.0-windows\ref\JaProjektGUI.dll

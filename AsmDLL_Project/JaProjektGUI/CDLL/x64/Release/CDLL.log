@@ -1,0 +1,23 @@
+﻿  pch.cpp
+  CFunkcja.cpp
+  dllmain.cpp
+C:\Users\kramp\OneDrive\Pulpit\ja\JaProjektGUI\CDLL\CFunkcja.cpp(4,6): warning C4273: "Cfunckja": niespójne powiązanie biblioteki dll
+  (kompilowanie pliku źródłowego „/CFunkcja.cpp”)
+      C:\Users\kramp\OneDrive\Pulpit\ja\JaProjektGUI\CDLL\CFunkcja.h(7,30):
+      zobacz poprzednią definicję „Cfunckja”
+  
+C:\Users\kramp\OneDrive\Pulpit\ja\JaProjektGUI\CDLL\CFunkcja.cpp(30,39): warning C4244: "=": konwersja z "double" do "uint8_t", możliwa utrata danych
+  (kompilowanie pliku źródłowego „/CFunkcja.cpp”)
+  
+C:\Users\kramp\OneDrive\Pulpit\ja\JaProjektGUI\CDLL\CFunkcja.cpp(31,43): warning C4244: "=": konwersja z "double" do "uint8_t", możliwa utrata danych
+  (kompilowanie pliku źródłowego „/CFunkcja.cpp”)
+  
+C:\Users\kramp\OneDrive\Pulpit\ja\JaProjektGUI\CDLL\CFunkcja.cpp(32,43): warning C4244: "=": konwersja z "double" do "uint8_t", możliwa utrata danych
+  (kompilowanie pliku źródłowego „/CFunkcja.cpp”)
+  
+     Trwa tworzenie biblioteki C:\Users\kramp\OneDrive\Pulpit\ja\JaProjektGUI\JaProjektGUI\bin\x64\Release\net9.0-windows\CDLL.lib i obiektu C:\Users\kramp\OneDrive\Pulpit\ja\JaProjektGUI\JaProjektGUI\bin\x64\Release\net9.0-windows\CDLL.exp
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  CDLL.vcxproj -> C:\Users\kramp\OneDrive\Pulpit\ja\JaProjektGUI\JaProjektGUI\bin\x64\Release\net9.0-windows\CDLL.dll

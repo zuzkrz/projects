@@ -1,0 +1,4 @@
+﻿  Assembling ASMDLL.asm...
+     Trwa tworzenie biblioteki C:\Users\kramp\OneDrive\Pulpit\ja\JaProjektGUI\JaProjektGUI\bin\x64\Release\net9.0-windows\ASMDLL.lib i obiektu C:\Users\kramp\OneDrive\Pulpit\ja\JaProjektGUI\JaProjektGUI\bin\x64\Release\net9.0-windows\ASMDLL.exp
+  LINK : określono opcję /LTCG, lecz generowanie kodu nie było wymagane; usuń opcję /LTCG z wiersza polecenia konsolidatora w celu podwyższenia wydajności konsolidatora
+  ASMDLL.vcxproj -> C:\Users\kramp\OneDrive\Pulpit\ja\JaProjektGUI\JaProjektGUI\bin\x64\Release\net9.0-windows\ASMDLL.dll
